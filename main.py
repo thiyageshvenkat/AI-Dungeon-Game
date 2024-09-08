@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 import tkinter as tk
 frame = tk.Tk() 
-frame.title("TextBox Input") 
+frame.title("Dungeon Game") 
 frame.geometry('400x200') 
 a = """
 I am at the entrance of a dungeon, known in leengds as Un Dak Oh, and home to majestic creatures and untold treasures. I can take various actions in this fantasy world. The character is Xana, a mischecious fox spirit, and I am at the entrance of the dungeon. I have a spellbook, some potions, and other magical doohickies, but the entire story and map is up to you!
