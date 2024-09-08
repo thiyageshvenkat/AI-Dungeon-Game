@@ -5,5 +5,6 @@ Dungeon Game led by gemini and using tkinter.
 ```
 $ export API_KEY=YourApiKeyThatYouGot
 $ python main.py
-Sample Output:
 ```
+
+![alt text](https://github.com/thiyageshvenkat/AI-Dungeon-Game/blob/main/Screenshot%202024-09-08%20075516.png)
